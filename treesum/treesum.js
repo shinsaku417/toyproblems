@@ -1,4 +1,4 @@
-// Sums all values 
+// Sums all values  of a given tree without using recursion
 var Tree = function(value) {
   this.value = value;
   this.children = [];
