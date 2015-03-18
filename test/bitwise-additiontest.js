@@ -1,5 +1,5 @@
-var assert = require("assert");
-var tp = require("../bitwise-addition/bitwise-addition.js");
+var assert = require('assert');
+var tp = require('../bitwise-addition/bitwise-addition.js');
 
 describe('Bitwise-addition', function(){
   var bitwiseAdd = tp.bitwiseAdd;

@@ -1,5 +1,5 @@
-var assert = require("assert");
-var tp = require("../treesum/treesum.js");
+var assert = require('assert');
+var tp = require('../treesum/treesum.js');
 
 describe('TreeSum', function(){
   describe('Tree.prototype.sum', function(){

@@ -1,5 +1,5 @@
-var assert = require("assert");
-var LinkedList = require("../linkedlist/linkedlist.js");
+var assert = require('assert');
+var LinkedList = require('../linkedlist/linkedlist.js');
 
 
 describe('LinkedList', function(){

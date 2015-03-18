@@ -1,5 +1,5 @@
-var assert = require("assert");
-var BinaryTree = require("../tree-serialize/tree-serialize.js");
+var assert = require('assert');
+var BinaryTree = require('../tree-serialize/tree-serialize.js');
 
 
 describe('Tree-Serialize', function(){
